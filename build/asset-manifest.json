@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2857503.css",
+    "main.js": "/static/js/main.0c7a1d0b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Logic_feat_Eminem_Homicide.mp3": "/static/media/Logic_feat_Eminem_Homicide.404a18799ac1ab1402c9.mp3",
+    "static/media/Eminem_Ft_Rihanna_The_Monster.mp3": "/static/media/Eminem_Ft_Rihanna_The_Monster.30ab0ac1eb4fd2aa50e5.mp3",
+    "static/media/Eminem_feat_Ed_Sheeran_River.mp3": "/static/media/Eminem_feat_Ed_Sheeran_River.2e264694eaaa24303367.mp3",
+    "index.html": "/index.html",
+    "main.b2857503.css.map": "/static/css/main.b2857503.css.map",
+    "main.0c7a1d0b.js.map": "/static/js/main.0c7a1d0b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2857503.css",
+    "static/js/main.0c7a1d0b.js"
+  ]
+}
