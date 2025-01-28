@@ -18,7 +18,7 @@ This is a music player app built with React.js and styled using Tailwind CSS.
 ## My Contact
 
 ### LinkedIn:
-    https://linkedin.com/in/ronaldoexcellent
+    https://linkedin.com/in/kingrex
 
 ### X:
     https://x.com/king_rex1212
